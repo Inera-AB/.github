@@ -4,7 +4,7 @@
 
 
 |GitHub Repository|GitHubPage|Implentation Guide (IG)|
-|:---|:---|:---|
+|:---|:---|:---
 | [Inera FHIR Landingpage](https://github.com/Inera-AB/Inera-FHIR-landingpage)|| [Inera FHIR Landingpage](https://Inera-AB.github.io/Inera-FHIR-landingpage/)| N/A |
 | [Inera FHIR Governance](https://github.com/Inera-AB/MedCom-FHIR-Communication)|| [Inera FHIR Governance](https://Inera-AB.github.io/MedCom-FHIR-Communication)| N/A |
 | [Inera FHIR Forms](https://github.com/Inera-AB/abc)|| [Inera FHIR Forms](https://Inera-AB.github.io/abc/)| N/A |
